@@ -1,6 +1,6 @@
 title=Karos
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://184.18.239.129/
+codebase=http://67.235.174.139/
 cachedir=karos
 storebase=0
 initial_jar=gamepack_2506588.jar
